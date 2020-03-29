@@ -28,4 +28,4 @@ With an internet or data connection, you can rest assured that you are always ge
 
 # Editors
 
-This project wasn't done alone. This was worked on by [Armaan](https://github.com/armaan-n), [David](https://github.com/theSlimeRancher), [Jason](), and Jackie[https://github.com/Luigimash/].
+This project wasn't done alone. This was worked on by [Armaan](https://github.com/armaan-n), [David](https://github.com/theSlimeRancher), [Jason](), and [Jackie](https://github.com/Luigimash/).
