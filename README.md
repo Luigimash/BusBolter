@@ -22,4 +22,6 @@ If you have a virtual Android machine, or an installation of Android Studio on y
 
 # Features and Function
 
-Using the [Google Directions API](https://developers.google.com/maps/documentation/directions/intro#TravelModes), we determine the fastest route to your destination, based on the bus schedule at the time. 
+Using the [Google Directions API](https://developers.google.com/maps/documentation/directions/intro#TravelModes), we determine the fastest route to your destination, based on the bus schedule at the time. Your locations can be entered as a street intersection, an address, a postal code, or a place name. For example: Finch Avenue and Pharmacy Avenue, 3250 Pharmacy Avenue, M3Q 3M4, or University of Windsor are all valid locations. 
+
+With an internet or data connection, you can rest assured that you are always getting the fastest transit directions to your destination at any moment. 
