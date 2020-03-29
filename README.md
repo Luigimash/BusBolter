@@ -30,3 +30,4 @@ With an internet or data connection, you can rest assured that you are always ge
 # Editors
 
 Contributors to this project are: [Armaan](https://github.com/armaan-n), [David](https://github.com/theSlimeRancher), [Jason](https://github.com/Jasonzhang03business), and [Jackie](https://github.com/Luigimash/).
+The [devpost can be found here,](https://devpost.com/software/busbolter)
