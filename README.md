@@ -26,6 +26,7 @@ Using the [Google Directions API](https://developers.google.com/maps/documentati
 
 With an internet or data connection, you can rest assured that you are always getting the fastest transit directions to your destination at any moment. 
 
+
 # Editors
 
-This project wasn't done alone. This was worked on by [Armaan](https://github.com/armaan-n), [David](https://github.com/theSlimeRancher), [Jason](), and [Jackie](https://github.com/Luigimash/).
+Contributors to this project are: [Armaan](https://github.com/armaan-n), [David](https://github.com/theSlimeRancher), [Jason](), and [Jackie](https://github.com/Luigimash/).
