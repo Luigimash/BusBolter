@@ -8,11 +8,11 @@ To use this app on your own Android device, follow the following steps:
 
 *1.* Download the APK from this dropbox link:
 
-*2.* Go to Menu > Settings > Security > check Unknown Sources to ensure your phone is ready to install third party apps
+*2.* Go to Menu > Settings > Security > check Unknown Sources to ensure your phone is ready to install third party apps.
 
-*3.* Connect your android phone to your computer 
+*3.* Connect your android phone to your computer.
 
-*4.* Copy the APK file into an accessible folder on your phone
+*4.* Copy the APK file into an accessible folder on your phone.
 
 *5.* Find the APK file in the file explorer on your phone, and install it.
 
