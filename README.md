@@ -18,3 +18,8 @@ To use this app on your own Android device, follow the following steps:
 
 If all goes well, this will give you a clean installation of Bus Bolter.
 
+If you have a virtual Android machine, or an installation of Android Studio on your PC, you can copy the APK into either tool for easy access. 
+
+# Features and Function
+
+Using the [Google Directions API](https://developers.google.com/maps/documentation/directions/intro#TravelModes), we determine the fastest route to your destination, based on the bus schedule at the time. 
